@@ -1,0 +1,13 @@
+---
+title: "Hannah Khan Portfolio"
+author: "Hannah Khan"
+date: "7/28/2021"
+output: 
+  prettydoc::html_pretty:
+    theme: HPSTR
+    highlight: github
+---
+### Hannah Khan CV
+![Me](hannah.png)
+#### Research in the Frietze Lab
+[Shiny App - Gene Expression](https://hannah-khan.shinyapps.io/shinyapp/)
