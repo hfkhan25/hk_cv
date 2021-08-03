@@ -9,7 +9,7 @@ output:
 ---
 ### Hannah Khan CV
 #### Fargo, ND | hannah.khan@ndsu.edu
-![Hannah Khan](hannah.png)
+![Hannah Khan](hannah.jpg)
 
 #### Research in the Frietze Lab
 [Shiny App - Gene Expression](https://hannah-khan.shinyapps.io/shinyapp/)
